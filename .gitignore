@@ -1,0 +1,5 @@
+elm-stuff
+node_modules
+package-lock.json
+frames/*.png
+frames/*.gif
